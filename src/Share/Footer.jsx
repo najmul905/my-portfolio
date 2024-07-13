@@ -5,7 +5,7 @@ const Footer = () => {
         <div>
             <footer className="footer p-10 bg-neutral text-neutral-content">
   <div>
-   <div className='text-4xl font-bold text-orange-400'>
+   <div className='text-[15px] md:text-[20px] font-bold text-orange-400'>
    Muhammad Najmul Islam
    </div>
     {/* <p>ACME Industries Ltd.<br/>Providing reliable tech since 1992</p> */}

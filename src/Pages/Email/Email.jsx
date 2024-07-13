@@ -6,17 +6,14 @@ import Social from '../Social/Social';
 
 const Email = () => {
     return (
-        <div id='contacts'>
+        <div className='' id='contacts '>
             <div>
-<h1 className='text-center my-12 text-3xl font-semibold text-stone-800 italic'>Contact with me!!!!!</h1>
+<h1 className='text-center my-12 text-3xl font-semibold italic'>Contact with me!!!!!</h1>
 <div >
   <Social></Social>
 </div>
             </div>
-            <div className='text-center my-4 text-4xl font-semibold'>
-                <h1>Get In Touch</h1>
-            </div>
-            <div className=' ml-32'>
+            <div className='ml-4 md:ml-32'>
                 <div className='flex items-center '>
                  <FaMapMarkerAlt></FaMapMarkerAlt> <p className='font-semibold'>Gaibandha,Dhaka,Bangladesh</p>
                 </div>

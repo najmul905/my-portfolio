@@ -1,0 +1,80 @@
+[
+    {
+        "id":1,
+        "name":"React",
+        "Image":"https://i.postimg.cc/mZ3XtwNB/react-logo-65-B7-CD91-B5-seeklogo-com.png",
+        "category":"Frontend Site"
+    },
+    {
+        "id":2,
+        "name":"HTML",
+        "Image":"https://i.postimg.cc/bwrtfyN4/html5-with-wordmark-black-white-logo-A6222-B77-EC-seeklogo-com.png",
+        "category":"Frontend Site"
+    },
+    {
+        "id":3,
+        "name":"CSS",
+        "Image":"https://i.postimg.cc/8CBDyWgG/logo-2582747-640.png",
+        "category":"Frontend Site"
+    },
+    {
+        "id":4,
+        "name":"Tailwind",
+        "Image":"https://i.postimg.cc/KzGbCzmM/tailwind-css-logo-5-AD4175897-seeklogo-com.png",
+        "category":"Frontend Site"
+    },
+    {
+        "id":5,
+        "name":"Firebase",
+        "Image":"https://i.postimg.cc/bNJXQWvq/firebase-1-logo.png",
+        "category":"Backend Site"
+    },
+    {
+        "id":6,
+        "name":"MongoDB",
+        "Image":"https://i.postimg.cc/59rgRR34/Mongo-DB-logo-01.png",
+        "category":"Backend Site"
+    },
+    {
+        "id":7,
+        "name":"Express JS",
+        "Image":"https://i.postimg.cc/zGKxWFTJ/1646733543.png",
+        "category":"Backend Site"
+    },
+    {
+        "id":8,
+        "name":"JavaScrip",
+        "Image":"https://i.postimg.cc/3NLwdFkB/R.png",
+        "category":"Frontend Site"
+    },
+    {
+        "id":9,
+        "name":"GItHub",
+        "Image":"https://i.postimg.cc/65vs7h4p/github-PNG80.png",
+        "category":"Tool"
+    },
+    {
+        "id":10,
+        "name":"Figma",
+        "Image":"https://i.postimg.cc/3xzHr1YY/figma-logo-512.png",
+        "category":"Tool"
+    },
+    {
+        "id":11,
+        "name":"Netlify",
+        "Image":"https://i.postimg.cc/gjM33n2q/netlify-logo-BD8-F8-A77-E2-seeklogo-com.png",
+        "category":"Tool"
+    },
+    {
+        "id":12,
+        "name":"VS code",
+        "Image":"https://i.postimg.cc/8PPHsVzm/visual-studio-code-logo-png-transparent.png",
+        "category":"Tool"
+    },
+    {
+        "id":13,
+        "name":"Node JS",
+        "Image":"https://i.postimg.cc/rmnjcn29/71302-express-js-chrome-javascript-system-node-js-v8-runtime.png",
+        "category":"Backend Site"
+    }
+]

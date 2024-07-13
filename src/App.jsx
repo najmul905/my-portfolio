@@ -1,6 +1,5 @@
 import React from 'react';
 
-import './App.css'
 import Navbar from './Share/Navbar';
 import Footer from './Share/Footer';
 import Home from './Pages/Home/Home';
@@ -17,7 +16,7 @@ function App() {
   return (
     <>
   <Navbar></Navbar>
- <div className='mt-16'>
+ <div className=''>
  <Home></Home>
 
  <About></About>

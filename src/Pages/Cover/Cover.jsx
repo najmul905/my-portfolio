@@ -3,7 +3,7 @@ import React from 'react';
 const Cover = () => {
     const handelCoverDownload=()=>{
         const link=document.createElement('a');
-        link.href='../../../public/Cover letter.pdf';
+        link.href='/Cover letter.pdf';
         link.target='_blank';
         link.download='Cover letter.pdf';
                 link.click();}
