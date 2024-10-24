@@ -69,7 +69,7 @@ const Home = () => {
                 transition={{ duration:2 }}
                 >
                <div className=''>
-               <img className=' ' src="https://i.ibb.co/fFzC9Zk/Designer.png" alt="" />
+               <img className=' ' src="https://i.postimg.cc/N0qN31xB/9a9a4f48-0649-4a38-a21c-28e5171bbf0a.png" alt="" />
                </div>
             </motion.div>
            
